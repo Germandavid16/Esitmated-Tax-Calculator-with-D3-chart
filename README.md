@@ -2,13 +2,13 @@
 
 Estimated Tax Calculator for individuals filing Form 1040, U.S. Individual Income Tax Return. This calculator should be used to estimate quarterly Federal income tax payments, based on [Current Tax Rate Schedules](https://www.irs.gov/pub/irs-pdf/f1040es.pdf).
 
-![Dashboard](https://github.com/Germandavid16/Esitmated-Tax-Calculator-with-D3-chart/master/landing.png)
+![Dashboard](https://github.com/Germandavid16/Esitmated-Tax-Calculator-with-D3-chart/blob/master/landing.png)
 
 ## Calculation
 
 The calculation of tax computes amounts owed based on 2018 Income Tax Rates.
 
-![Dashboard](https://github.com/Germandavid16/Esitmated-Tax-Calculator-with-D3-chart/master/2018-Tax-Rate-Schedules.png)
+![Dashboard](https://github.com/Germandavid16/Esitmated-Tax-Calculator-with-D3-chart/blob/master/2018-Tax-Rate-Schedules.png)
 
 This tax calculation does not take into effect special Long Term Capital Gains and Qualified Dividends Tax Rates, nor additional taxes such as the Net Investment Income tax or Alternative Minimum Tax.  
 
